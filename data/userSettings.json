@@ -1,0 +1,50 @@
+[
+  {
+    "userId": "123AMNA",
+    "language": "EN",
+    "notificationsEnabled": true,
+    "timezone": "Asia/Wahcantt",
+    "createdAt": "2026-09-15T12:07:21.334Z",
+    "updatedAt": "2026-09-15T12:07:21.334Z"
+  },
+  {
+    "userId": "123Ali",
+    "language": "EN",
+    "notificationsEnabled": true,
+    "timezone": "Asia/Wahcantt",
+    "createdAt": "2026-09-15T12:08:42.910Z",
+    "updatedAt": "2026-09-15T12:08:42.910Z"
+  },
+  {
+    "userId": "qwe2223",
+    "language": "EN",
+    "notificationsEnabled": true,
+    "timezone": "Asia/wah",
+    "createdAt": "2026-09-15T13:26:02.870Z",
+    "updatedAt": "2026-09-15T13:26:02.870Z"
+  },
+  {
+    "userId": "qwe222ggg3",
+    "language": "EN",
+    "notificationsEnabled": true,
+    "timezone": "Asia/wah",
+    "createdAt": "2026-09-15T13:26:57.249Z",
+    "updatedAt": "2026-09-15T13:26:57.249Z"
+  },
+  {
+    "userId": "qwffde222ggg3",
+    "language": "EN",
+    "notificationsEnabled": true,
+    "timezone": "Asia/wah",
+    "createdAt": "2026-09-15T13:27:12.505Z",
+    "updatedAt": "2026-09-15T13:27:12.505Z"
+  },
+  {
+    "userId": "amn45qqq5",
+    "language": "EN",
+    "notificationsEnabled": true,
+    "timezone": "Asia/wah",
+    "createdAt": "2026-09-29T12:57:40.816Z",
+    "updatedAt": "2026-09-29T12:57:40.816Z"
+  }
+]
